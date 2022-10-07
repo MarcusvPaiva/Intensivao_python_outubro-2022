@@ -4,3 +4,4 @@ Este projeto foi feito com intenção de aprendizado e estudo baseado nas aulas 
 
 Neste projeto foi utilizado anaconda, uma distrubuição de lingaugens para computação científica, que incluem o navegador de arquivos jupyter e a linguagem python
 
+Quaisquer descrição extra estará nos arquivos da aula 1, aula2, aula3 e aula4
